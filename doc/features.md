@@ -3,58 +3,11 @@
 # مكتبة أدوات اللغة العربية
 Adawat: Arabic Language Toolkit
 
-![adawat logo](doc/adawat_header.png  "adawat logo")
-
-![PyPI - Downloads](https://img.shields.io/pypi/dm/adawat)
-
-
-  Developpers:  Taha Zerrouki: http://tahadz.com
-    taha dot zerrouki at gmail dot com
-
-  
-Features |   value
----------|---------------------------------------------------------------------------------
-Authors  | [Authors.md](https://github.com/linuxscout/adawat-arabic-syntax/master/AUTHORS.md)
-Release  | 0.1
-License  |[GPL](https://github.com/linuxscout/adawat-arabic-syntax/master/LICENSE)
-Tracker  |[linuxscout/adawat/Issues](https://github.com/linuxscout/adawat-arabic-syntax/issues)
-Source  |[Github](http://github.com/linuxscout/adawat-arabic-syntax)
-Feedbacks  |[Comments](https://github.com/linuxscout/adawat-arabic-syntax/)
-Accounts  |[@Twitter](https://twitter.com/linuxscout))
-
-## Description
-
-Adawat: Arabic Language Toolkit
-
 
 ###  مزايا:
- تجمع هذه المكتبة كل الأدوات المستعملة في معالجة النص العربي
- مثل:
- 
- * التشكيل
- * التحليل
- 
-  * التحليل الصرفي
-  * التحليل الدلالي	
 
- * الاستخلاص
- * التحويل
- 
- * نصوص عشوائية
  
 
-
-## Citation
-
-```bibtex
-@thesis{zerrouki2020adawat,
-author = {Taha Zerrouki},
-title = {Towards An Open Platform For Arabic Language Processing},
-type = {PhD thesis},
-institution = {Ecole Nationale Supérieure d'informatique, Alger, Algérie},
-date = {2020},
-}
-```
 
 ### Usage
 
@@ -300,6 +253,14 @@ pip install adawat
 ```
 #### [requirement]
   
-
+- asmai>=0.1
+- mishkal>=0.3
+- naftawayh>=0.4
+- pyarabic>=0.6.8
+- qalsadi>=0.3.6
+- repr>=0.3.1
+- spellcheck>=1.0.2
+- sylajone>=0.2
+- tashaphyne>=0.3.4.1
 
 
