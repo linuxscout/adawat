@@ -14,12 +14,12 @@ Adawat: Arabic Language Toolkit
   
 Features |   value
 ---------|---------------------------------------------------------------------------------
-Authors  | [Authors.md](https://github.com/linuxscout/adawat-arabic-syntax/master/AUTHORS.md)
+Authors  | [Authors.md](https://github.com/linuxscout/adawat/master/AUTHORS.md)
 Release  | 0.1
-License  |[GPL](https://github.com/linuxscout/adawat-arabic-syntax/master/LICENSE)
-Tracker  |[linuxscout/adawat/Issues](https://github.com/linuxscout/adawat-arabic-syntax/issues)
-Source  |[Github](http://github.com/linuxscout/adawat-arabic-syntax)
-Feedbacks  |[Comments](https://github.com/linuxscout/adawat-arabic-syntax/)
+License  |[GPL](https://github.com/linuxscout/adawat/master/LICENSE)
+Tracker  |[linuxscout/adawat/Issues](https://github.com/linuxscout/adawat/issues)
+Source  |[Github](http://github.com/linuxscout/adawat)
+Feedbacks  |[Comments](https://github.com/linuxscout/adawat/)
 Accounts  |[@Twitter](https://twitter.com/linuxscout))
 
 ## Description
