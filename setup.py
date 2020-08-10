@@ -9,7 +9,7 @@ def readme():
     with open('README.rst', encoding="utf8") as f:
         return f.read()
 
-setup (name='adawat', version='0.2',
+setup (name='adawat', version='0.1',
       description="Adawat: Arabic Language Toolkit",
       long_description = readme(),      
 
