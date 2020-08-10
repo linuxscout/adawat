@@ -280,7 +280,7 @@ def affixate(text):
     """
     generate all affixed froms from a word
     """
-    word_list = token_text(text)
+    word_list = tokenize(text)
     if len(word_list) == 0:
         return u''
     else:
@@ -295,7 +295,7 @@ def wordtag(text):
     word tagginginto noun, verb, tool
     """
     tagger = naftawayh.wordtag.WordTagger()
-    word_list = token_text(text)
+    word_list = tokenize(text)
 
     if len(word_list) == 0:
         return []
@@ -329,7 +329,7 @@ def inverse(text):
     """
     inverse a text
     """
-    word_list = token_text(text)
+    word_list = tokenize(text)
 
     if len(word_list) == 0:
         return []
